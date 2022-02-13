@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "ws": "^8.5.0"
+  },
+  "name": "nodejs-websocket-sync",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/clarencetw/nodejs-websocket-sync.git",
+  "author": "clarencetw <mr.lin.clarence@gmail.com>",
+  "license": "private",
+  "private": true
+}
